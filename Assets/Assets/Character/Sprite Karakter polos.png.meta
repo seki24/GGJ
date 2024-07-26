@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 47c1e8086e845d44db75a4310b5cd70e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2766877067149273544
+    second: Sprite Karakter polos_0
+  - first:
+      213: 4403636409924681088
+    second: Sprite Karakter polos_1
+  - first:
+      213: 117055524998633658
+    second: Sprite Karakter polos_2
+  - first:
+      213: -2124929559695312205
+    second: Sprite Karakter polos_3
+  - first:
+      213: 7530218616733476189
+    second: Sprite Karakter polos_4
+  - first:
+      213: -2932458075731240997
+    second: Sprite Karakter polos_5
+  - first:
+      213: -7490345106914912460
+    second: Sprite Karakter polos_6
+  - first:
+      213: 8627986647719120205
+    second: Sprite Karakter polos_7
+  - first:
+      213: -3448815898932792240
+    second: Sprite Karakter polos_8
+  - first:
+      213: -1537296194837596515
+    second: Sprite Karakter polos_9
+  - first:
+      213: -845990625043455825
+    second: Sprite Karakter polos_10
+  - first:
+      213: 5392224251116151099
+    second: Sprite Karakter polos_11
+  - first:
+      213: -3819167403453821375
+    second: Sprite Karakter polos_12
+  - first:
+      213: -7817163304196024278
+    second: Sprite Karakter polos_13
+  - first:
+      213: -590234000507844110
+    second: Sprite Karakter polos_14
+  - first:
+      213: -4830416205378665359
+    second: Sprite Karakter polos_15
+  - first:
+      213: -1348916473930094153
+    second: Sprite Karakter polos_16
+  - first:
+      213: -2942085084142815538
+    second: Sprite Karakter polos_17
+  - first:
+      213: 725170723221616296
+    second: Sprite Karakter polos_18
+  - first:
+      213: -564091074596886273
+    second: Sprite Karakter polos_19
+  - first:
+      213: -9188110369257032168
+    second: Sprite Karakter polos_20
+  - first:
+      213: 6194895532227815673
+    second: Sprite Karakter polos_21
+  - first:
+      213: -4207767949034426410
+    second: Sprite Karakter polos_22
+  - first:
+      213: -127741656562914246
+    second: Sprite Karakter polos_23
+  - first:
+      213: -2782440686544588720
+    second: Sprite Karakter polos_24
+  - first:
+      213: -6210399106985620618
+    second: Sprite Karakter polos_25
+  - first:
+      213: 7297707232797235746
+    second: Sprite Karakter polos_26
+  - first:
+      213: -4398370420100337477
+    second: Sprite Karakter polos_27
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite Karakter polos_0
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 3257
+        width: 374
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c96b94780ce56620800000000000000
+      internalID: 2766877067149273544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_1
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 3214
+        width: 374
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d798dbbfbdc1d30800000000000000
+      internalID: 4403636409924681088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_2
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 3201
+        width: 373
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab85a8a316ddf9100800000000000000
+      internalID: 117055524998633658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_3
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 3166
+        width: 374
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba32a5e2dbb282e0800000000000000
+      internalID: -2124929559695312205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_4
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 3186
+        width: 374
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55ae636fe5b08860800000000000000
+      internalID: 7530218616733476189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_5
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 3199
+        width: 374
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7505dbae0dd47d0800000000000000
+      internalID: -2932458075731240997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_6
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 3242
+        width: 374
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43750419fc2fc0890800000000000000
+      internalID: -7490345106914912460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_7
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2121
+        width: 374
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d8c10a424ccb770800000000000000
+      internalID: 8627986647719120205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_8
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2106
+        width: 374
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054346866385320d0800000000000000
+      internalID: -3448815898932792240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_9
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 2064
+        width: 374
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d963528714d6aaae0800000000000000
+      internalID: -1537296194837596515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_10
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 2015
+        width: 374
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa069fe32007244f0800000000000000
+      internalID: -845990625043455825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_11
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 2050
+        width: 374
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31660d136705da40800000000000000
+      internalID: 5392224251116151099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_12
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 2092
+        width: 374
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e426b3b779ffac0800000000000000
+      internalID: -3819167403453821375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_13
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 2106
+        width: 374
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a285d26546bd38390800000000000000
+      internalID: -7817163304196024278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1050
+        width: 396
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f94f51cd411fc7f0800000000000000
+      internalID: -590234000507844110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_15
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1050
+        width: 454
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1744d19cd0ae6fcb0800000000000000
+      internalID: -4830416205378665359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_16
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1043
+        width: 509
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b969b32d9fa74de0800000000000000
+      internalID: -1348916473930094153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_17
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1043
+        width: 579
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec631bc243d9b27d0800000000000000
+      internalID: -2942085084142815538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_18
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1043
+        width: 508
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6332f3ee2501a00800000000000000
+      internalID: 725170723221616296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_19
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 1035
+        width: 454
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff82fa50822fb28f0800000000000000
+      internalID: -564091074596886273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_20
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 1035
+        width: 395
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816f953cc464d7080800000000000000
+      internalID: -9188110369257032168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 396
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8e7132aa0b8f550800000000000000
+      internalID: 6194895532227815673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_22
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 454
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df678418510b95c0800000000000000
+      internalID: -4207767949034426410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_23
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 6
+        width: 509
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c2c81e3ab2a3ef0800000000000000
+      internalID: -127741656562914246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_24
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 6
+        width: 579
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0507ae500f8c269d0800000000000000
+      internalID: -2782440686544588720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_25
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 6
+        width: 509
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b08b29aea30d9a0800000000000000
+      internalID: -6210399106985620618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_26
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 13
+        width: 454
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a9da5301aa64560800000000000000
+      internalID: 7297707232797235746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Karakter polos_27
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 13
+        width: 397
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0755f0869d5f2c0800000000000000
+      internalID: -4398370420100337477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprite Karakter polos_0: 2766877067149273544
+      Sprite Karakter polos_1: 4403636409924681088
+      Sprite Karakter polos_10: -845990625043455825
+      Sprite Karakter polos_11: 5392224251116151099
+      Sprite Karakter polos_12: -3819167403453821375
+      Sprite Karakter polos_13: -7817163304196024278
+      Sprite Karakter polos_14: -590234000507844110
+      Sprite Karakter polos_15: -4830416205378665359
+      Sprite Karakter polos_16: -1348916473930094153
+      Sprite Karakter polos_17: -2942085084142815538
+      Sprite Karakter polos_18: 725170723221616296
+      Sprite Karakter polos_19: -564091074596886273
+      Sprite Karakter polos_2: 117055524998633658
+      Sprite Karakter polos_20: -9188110369257032168
+      Sprite Karakter polos_21: 6194895532227815673
+      Sprite Karakter polos_22: -4207767949034426410
+      Sprite Karakter polos_23: -127741656562914246
+      Sprite Karakter polos_24: -2782440686544588720
+      Sprite Karakter polos_25: -6210399106985620618
+      Sprite Karakter polos_26: 7297707232797235746
+      Sprite Karakter polos_27: -4398370420100337477
+      Sprite Karakter polos_3: -2124929559695312205
+      Sprite Karakter polos_4: 7530218616733476189
+      Sprite Karakter polos_5: -2932458075731240997
+      Sprite Karakter polos_6: -7490345106914912460
+      Sprite Karakter polos_7: 8627986647719120205
+      Sprite Karakter polos_8: -3448815898932792240
+      Sprite Karakter polos_9: -1537296194837596515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

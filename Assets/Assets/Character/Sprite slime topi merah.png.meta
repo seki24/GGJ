@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 8f8e82f32f668574c87857291a14e910
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2225297178473444910
+    second: Sprite slime topi merah_0
+  - first:
+      213: 6994106057105451700
+    second: Sprite slime topi merah_1
+  - first:
+      213: 2875702213898605953
+    second: Sprite slime topi merah_2
+  - first:
+      213: 2948670202370557391
+    second: Sprite slime topi merah_3
+  - first:
+      213: 3002269959721693612
+    second: Sprite slime topi merah_4
+  - first:
+      213: -7786834526603733913
+    second: Sprite slime topi merah_5
+  - first:
+      213: -8433568599833669408
+    second: Sprite slime topi merah_6
+  - first:
+      213: -5137407261557004258
+    second: Sprite slime topi merah_7
+  - first:
+      213: 1835803976722312037
+    second: Sprite slime topi merah_8
+  - first:
+      213: -3010025828343536775
+    second: Sprite slime topi merah_9
+  - first:
+      213: 6416987565218308394
+    second: Sprite slime topi merah_10
+  - first:
+      213: -7800523773360508064
+    second: Sprite slime topi merah_11
+  - first:
+      213: 3415471442637828877
+    second: Sprite slime topi merah_12
+  - first:
+      213: -5497282627393610553
+    second: Sprite slime topi merah_13
+  - first:
+      213: -1503244709276623015
+    second: Sprite slime topi merah_14
+  - first:
+      213: 352110490981626539
+    second: Sprite slime topi merah_15
+  - first:
+      213: 7903338302045018107
+    second: Sprite slime topi merah_16
+  - first:
+      213: 3846235127052559467
+    second: Sprite slime topi merah_17
+  - first:
+      213: -5077724626364882999
+    second: Sprite slime topi merah_18
+  - first:
+      213: -8945519751601585620
+    second: Sprite slime topi merah_19
+  - first:
+      213: 2648456999946059525
+    second: Sprite slime topi merah_20
+  - first:
+      213: 498416330432618610
+    second: Sprite slime topi merah_21
+  - first:
+      213: -1026169517247709337
+    second: Sprite slime topi merah_22
+  - first:
+      213: -4145964118094974072
+    second: Sprite slime topi merah_23
+  - first:
+      213: -321062957712176303
+    second: Sprite slime topi merah_24
+  - first:
+      213: -7656183462920940655
+    second: Sprite slime topi merah_25
+  - first:
+      213: 3084255385667350916
+    second: Sprite slime topi merah_26
+  - first:
+      213: -1232869688830741585
+    second: Sprite slime topi merah_27
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite slime topi merah_0
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3225
+        width: 374
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9496d91082e11e0800000000000000
+      internalID: -2225297178473444910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_1
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 3182
+        width: 374
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baad2f076e001160800000000000000
+      internalID: 6994106057105451700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_2
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 3169
+        width: 374
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1851b3b6deb88e720800000000000000
+      internalID: 2875702213898605953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_3
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 3134
+        width: 374
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc583142de7cbe820800000000000000
+      internalID: 2948670202370557391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_4
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 3154
+        width: 374
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1b9052f943aa920800000000000000
+      internalID: 3002269959721693612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_5
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 3167
+        width: 374
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7649905214b9fe390800000000000000
+      internalID: -7786834526603733913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_6
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 3210
+        width: 374
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0960a9a02f5fa80800000000000000
+      internalID: -8433568599833669408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2204
+        width: 374
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18e164905344b8b0800000000000000
+      internalID: -5137407261557004258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_8
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 2190
+        width: 374
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b68c58df51a7910800000000000000
+      internalID: 1835803976722312037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_9
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 2148
+        width: 374
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97325d8f47d3a36d0800000000000000
+      internalID: -3010025828343536775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_10
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 2113
+        width: 374
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21afe02138bd0950800000000000000
+      internalID: 6416987565218308394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_11
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 2163
+        width: 374
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0637bd205f8feb390800000000000000
+      internalID: -7800523773360508064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_12
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 2204
+        width: 374
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d033bee5e21366f20800000000000000
+      internalID: 3415471442637828877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_13
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 2219
+        width: 374
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc1744839ab5b3b0800000000000000
+      internalID: -5497282627393610553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 395
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fd415c6e6632be0800000000000000
+      internalID: -1503244709276623015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_15
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1090
+        width: 454
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2f5a040a2f2e400800000000000000
+      internalID: 352110490981626539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_16
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1096
+        width: 508
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7d121ef4c4ead60800000000000000
+      internalID: 7903338302045018107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_17
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 1079
+        width: 579
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64e8964872906530800000000000000
+      internalID: 3846235127052559467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_18
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 1081
+        width: 508
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf9442fa5c4889b0800000000000000
+      internalID: -5077724626364882999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_19
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 1075
+        width: 454
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c220c8a6e212bd380800000000000000
+      internalID: -8945519751601585620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_20
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 1072
+        width: 396
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f7eacfb9531c420800000000000000
+      internalID: 2648456999946059525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 397
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270a0b5030bbae600800000000000000
+      internalID: 498416330432618610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_22
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 454
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fbd1dc24052c1f0800000000000000
+      internalID: -1026169517247709337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_23
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 6
+        width: 508
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883fe61d9939676c0800000000000000
+      internalID: -4145964118094974072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_24
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 21
+        width: 579
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b8707e0fa5b8bf0800000000000000
+      internalID: -321062957712176303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_25
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 38
+        width: 509
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193906564b5cfb590800000000000000
+      internalID: -7656183462920940655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_26
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 32
+        width: 454
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481b943aee97dca20800000000000000
+      internalID: 3084255385667350916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi merah_27
+      rect:
+        serializedVersion: 2
+        x: 4402
+        y: 32
+        width: 396
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3b5eecc87f3eee0800000000000000
+      internalID: -1232869688830741585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprite slime topi merah_0: -2225297178473444910
+      Sprite slime topi merah_1: 6994106057105451700
+      Sprite slime topi merah_10: 6416987565218308394
+      Sprite slime topi merah_11: -7800523773360508064
+      Sprite slime topi merah_12: 3415471442637828877
+      Sprite slime topi merah_13: -5497282627393610553
+      Sprite slime topi merah_14: -1503244709276623015
+      Sprite slime topi merah_15: 352110490981626539
+      Sprite slime topi merah_16: 7903338302045018107
+      Sprite slime topi merah_17: 3846235127052559467
+      Sprite slime topi merah_18: -5077724626364882999
+      Sprite slime topi merah_19: -8945519751601585620
+      Sprite slime topi merah_2: 2875702213898605953
+      Sprite slime topi merah_20: 2648456999946059525
+      Sprite slime topi merah_21: 498416330432618610
+      Sprite slime topi merah_22: -1026169517247709337
+      Sprite slime topi merah_23: -4145964118094974072
+      Sprite slime topi merah_24: -321062957712176303
+      Sprite slime topi merah_25: -7656183462920940655
+      Sprite slime topi merah_26: 3084255385667350916
+      Sprite slime topi merah_27: -1232869688830741585
+      Sprite slime topi merah_3: 2948670202370557391
+      Sprite slime topi merah_4: 3002269959721693612
+      Sprite slime topi merah_5: -7786834526603733913
+      Sprite slime topi merah_6: -8433568599833669408
+      Sprite slime topi merah_7: -5137407261557004258
+      Sprite slime topi merah_8: 1835803976722312037
+      Sprite slime topi merah_9: -3010025828343536775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

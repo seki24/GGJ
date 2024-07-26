@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: de9e7dcdce8f3b64fa2ed81975624dcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3314816593231712072
+    second: Sprite slime topi hijau_0
+  - first:
+      213: 7197992531541082060
+    second: Sprite slime topi hijau_1
+  - first:
+      213: -68165835077696126
+    second: Sprite slime topi hijau_2
+  - first:
+      213: 9116263595169153121
+    second: Sprite slime topi hijau_3
+  - first:
+      213: -5026738007004823412
+    second: Sprite slime topi hijau_4
+  - first:
+      213: 6592154141528719287
+    second: Sprite slime topi hijau_5
+  - first:
+      213: 7666631886830659284
+    second: Sprite slime topi hijau_6
+  - first:
+      213: -2991132385909726715
+    second: Sprite slime topi hijau_7
+  - first:
+      213: 1929290728384758849
+    second: Sprite slime topi hijau_8
+  - first:
+      213: 9165035810649936120
+    second: Sprite slime topi hijau_9
+  - first:
+      213: 6137947251185813310
+    second: Sprite slime topi hijau_10
+  - first:
+      213: 2086335048804247591
+    second: Sprite slime topi hijau_11
+  - first:
+      213: -6786187246962334988
+    second: Sprite slime topi hijau_12
+  - first:
+      213: 8264764272215451943
+    second: Sprite slime topi hijau_13
+  - first:
+      213: 265709039613373680
+    second: Sprite slime topi hijau_14
+  - first:
+      213: 4910531847683658265
+    second: Sprite slime topi hijau_15
+  - first:
+      213: 3058988308258308249
+    second: Sprite slime topi hijau_16
+  - first:
+      213: 1645016780283643286
+    second: Sprite slime topi hijau_17
+  - first:
+      213: 2890349839217246435
+    second: Sprite slime topi hijau_18
+  - first:
+      213: -1691227598606105023
+    second: Sprite slime topi hijau_19
+  - first:
+      213: -8366256138098630788
+    second: Sprite slime topi hijau_20
+  - first:
+      213: 9184159160755692239
+    second: Sprite slime topi hijau_21
+  - first:
+      213: 9133019977743130205
+    second: Sprite slime topi hijau_22
+  - first:
+      213: 7073666114926572197
+    second: Sprite slime topi hijau_23
+  - first:
+      213: -387789044049427726
+    second: Sprite slime topi hijau_24
+  - first:
+      213: -847708916675218654
+    second: Sprite slime topi hijau_25
+  - first:
+      213: -6250889769432382054
+    second: Sprite slime topi hijau_26
+  - first:
+      213: -3814433195344903987
+    second: Sprite slime topi hijau_27
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_0
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 3166
+        width: 374
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f852ff028900e20800000000000000
+      internalID: 3314816593231712072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_1
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 3123
+        width: 374
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfbb62221864e360800000000000000
+      internalID: 7197992531541082060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_2
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 3111
+        width: 374
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285406eb883dd0ff0800000000000000
+      internalID: -68165835077696126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_3
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 3075
+        width: 374
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16002e49079738e70800000000000000
+      internalID: 9116263595169153121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_4
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 3096
+        width: 374
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80c5895a607d3ab0800000000000000
+      internalID: -5026738007004823412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_5
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 3109
+        width: 374
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf7076d3490c7b50800000000000000
+      internalID: 6592154141528719287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_6
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 3152
+        width: 374
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6693ed419556a60800000000000000
+      internalID: 7666631886830659284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_7
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2221
+        width: 374
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5022fa551fc5d76d0800000000000000
+      internalID: -2991132385909726715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_8
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2207
+        width: 374
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14404d512b736ca10800000000000000
+      internalID: 1929290728384758849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_9
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2165
+        width: 374
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f01687e28fb03f70800000000000000
+      internalID: 9165035810649936120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_10
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 2129
+        width: 374
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e370405318e5e2550800000000000000
+      internalID: 6137947251185813310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_11
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 2179
+        width: 374
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728ac6a4ca624fc10800000000000000
+      internalID: 2086335048804247591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_12
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 2221
+        width: 374
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2268557ae92d1a0800000000000000
+      internalID: -6786187246962334988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_13
+      rect:
+        serializedVersion: 2
+        x: 4085
+        y: 2236
+        width: 374
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729edb5215752b270800000000000000
+      internalID: 8264764272215451943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1252
+        width: 397
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fce3c7b6fcffa300800000000000000
+      internalID: 265709039613373680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1252
+        width: 454
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9125d67c2b6b52440800000000000000
+      internalID: 4910531847683658265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_16
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1236
+        width: 509
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9904fcdb8a5b37a20800000000000000
+      internalID: 3058988308258308249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_17
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1204
+        width: 579
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6950d56cb0644d610800000000000000
+      internalID: 1645016780283643286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_18
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1208
+        width: 509
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0c6237dd59c1820800000000000000
+      internalID: 2890349839217246435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_19
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 1192
+        width: 454
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1460fb6a57d8788e0800000000000000
+      internalID: -1691227598606105023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_20
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 1185
+        width: 396
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f13b46e5615eb80800000000000000
+      internalID: -8366256138098630788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 396
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc22e71d810b47f70800000000000000
+      internalID: 9184159160755692239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_22
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 454
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5edcebe7410fbe70800000000000000
+      internalID: 9133019977743130205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_23
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1
+        width: 509
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a27ae78ad5ba2260800000000000000
+      internalID: 7073666114926572197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_24
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 29
+        width: 579
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f245a54beb4e9af0800000000000000
+      internalID: -387789044049427726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_25
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 29
+        width: 509
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22374ac4b355c34f0800000000000000
+      internalID: -847708916675218654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_26
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 58
+        width: 454
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a950cd29fd06049a0800000000000000
+      internalID: -6250889769432382054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite slime topi hijau_27
+      rect:
+        serializedVersion: 2
+        x: 4460
+        y: 58
+        width: 396
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc04204f739601bc0800000000000000
+      internalID: -3814433195344903987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprite slime topi hijau_0: 3314816593231712072
+      Sprite slime topi hijau_1: 7197992531541082060
+      Sprite slime topi hijau_10: 6137947251185813310
+      Sprite slime topi hijau_11: 2086335048804247591
+      Sprite slime topi hijau_12: -6786187246962334988
+      Sprite slime topi hijau_13: 8264764272215451943
+      Sprite slime topi hijau_14: 265709039613373680
+      Sprite slime topi hijau_15: 4910531847683658265
+      Sprite slime topi hijau_16: 3058988308258308249
+      Sprite slime topi hijau_17: 1645016780283643286
+      Sprite slime topi hijau_18: 2890349839217246435
+      Sprite slime topi hijau_19: -1691227598606105023
+      Sprite slime topi hijau_2: -68165835077696126
+      Sprite slime topi hijau_20: -8366256138098630788
+      Sprite slime topi hijau_21: 9184159160755692239
+      Sprite slime topi hijau_22: 9133019977743130205
+      Sprite slime topi hijau_23: 7073666114926572197
+      Sprite slime topi hijau_24: -387789044049427726
+      Sprite slime topi hijau_25: -847708916675218654
+      Sprite slime topi hijau_26: -6250889769432382054
+      Sprite slime topi hijau_27: -3814433195344903987
+      Sprite slime topi hijau_3: 9116263595169153121
+      Sprite slime topi hijau_4: -5026738007004823412
+      Sprite slime topi hijau_5: 6592154141528719287
+      Sprite slime topi hijau_6: 7666631886830659284
+      Sprite slime topi hijau_7: -2991132385909726715
+      Sprite slime topi hijau_8: 1929290728384758849
+      Sprite slime topi hijau_9: 9165035810649936120
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

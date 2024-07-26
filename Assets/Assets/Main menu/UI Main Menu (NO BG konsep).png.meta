@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: 50a2291423b5a7e469bcaddaad3e2d4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2691418710054819226
+    second: UI Main Menu (NO BG konsep)_0
+  - first:
+      213: -1159376448971162493
+    second: UI Main Menu (NO BG konsep)_1
+  - first:
+      213: -7138769674062923440
+    second: UI Main Menu (NO BG konsep)_2
+  - first:
+      213: -8861331857372243359
+    second: UI Main Menu (NO BG konsep)_3
+  - first:
+      213: 992208090359343802
+    second: UI Main Menu (NO BG konsep)_4
+  - first:
+      213: 6906632062774823264
+    second: UI Main Menu (NO BG konsep)_5
+  - first:
+      213: -511418708696574145
+    second: UI Main Menu (NO BG konsep)_6
+  - first:
+      213: 7782284008663776660
+    second: UI Main Menu (NO BG konsep)_7
+  - first:
+      213: 4356403054792590228
+    second: UI Main Menu (NO BG konsep)_8
+  - first:
+      213: 7542804930633269746
+    second: UI Main Menu (NO BG konsep)_9
+  - first:
+      213: 2949267025038693119
+    second: UI Main Menu (NO BG konsep)_10
+  - first:
+      213: 2992837262847289965
+    second: UI Main Menu (NO BG konsep)_11
+  - first:
+      213: 6733615309313889319
+    second: UI Main Menu (NO BG konsep)_12
+  - first:
+      213: 7455878475300818352
+    second: UI Main Menu (NO BG konsep)_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI Main Menu (NO BG konsep)_0
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 2400
+        width: 428
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aa75561f826aad0800000000000000
+      internalID: -2691418710054819226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu (NO BG konsep)_1
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 2416
+        width: 275
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cbe16234119efe0800000000000000
+      internalID: -1159376448971162493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu (NO BG konsep)_2
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 2965
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059f524edcefdec90800000000000000
+      internalID: -7138769674062923440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu (NO BG konsep)_3
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 2400
+        width: 428
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a997400a9360580800000000000000
+      internalID: -8861331857372243359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu (NO BG konsep)_4
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 2416
+        width: 570
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba2321500805cd00800000000000000
+      internalID: 992208090359343802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu (NO BG konsep)_5
+      rect:
+        serializedVersion: 2
+        x: 5393
+        y: 2386
+        width: 548
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0694408a44949df50800000000000000
+      internalID: 6906632062774823264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu (NO BG konsep)_6
+      rect:
+        serializedVersion: 2
+        x: 5913
+        y: 2406
+        width: 306
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37d6a0e46317e8f0800000000000000
+      internalID: -511418708696574145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu (NO BG konsep)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2114
+        width: 399
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d7b95d21a300c60800000000000000
+      internalID: 7782284008663776660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu (NO BG konsep)_8
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 84
+        width: 2683
+        height: 2467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493c6534f7d057c30800000000000000
+      internalID: 4356403054792590228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu (NO BG konsep)_9
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 2416
+        width: 275
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f10674fe1d6da860800000000000000
+      internalID: 7542804930633269746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu (NO BG konsep)_10
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 2416
+        width: 844
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2543fbbb6ede820800000000000000
+      internalID: 2949267025038693119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu (NO BG konsep)_11
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 1518
+        width: 1754
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aa09242a1b88920800000000000000
+      internalID: 2992837262847289965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu (NO BG konsep)_12
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 766
+        width: 1754
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72459c5927b927d50800000000000000
+      internalID: 6733615309313889319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu (NO BG konsep)_13
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 0
+        width: 1754
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd49c868f9987760800000000000000
+      internalID: 7455878475300818352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI Main Menu (NO BG konsep)_0: -2691418710054819226
+      UI Main Menu (NO BG konsep)_1: -1159376448971162493
+      UI Main Menu (NO BG konsep)_10: 2949267025038693119
+      UI Main Menu (NO BG konsep)_11: 2992837262847289965
+      UI Main Menu (NO BG konsep)_12: 6733615309313889319
+      UI Main Menu (NO BG konsep)_13: 7455878475300818352
+      UI Main Menu (NO BG konsep)_2: -7138769674062923440
+      UI Main Menu (NO BG konsep)_3: -8861331857372243359
+      UI Main Menu (NO BG konsep)_4: 992208090359343802
+      UI Main Menu (NO BG konsep)_5: 6906632062774823264
+      UI Main Menu (NO BG konsep)_6: -511418708696574145
+      UI Main Menu (NO BG konsep)_7: 7782284008663776660
+      UI Main Menu (NO BG konsep)_8: 4356403054792590228
+      UI Main Menu (NO BG konsep)_9: 7542804930633269746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
